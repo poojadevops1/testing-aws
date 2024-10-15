@@ -1,0 +1,13 @@
+# See the OWNERS docs at https://go.k8s.io/owners
+
+approvers:
+  - cblecker
+  - mrbobbytables
+  - nikhita
+  - palnabarun
+  - MadhavJivrajani
+  - Priyankasaggu11929
+
+labels:
+  - sig/contributor-experience
+  - area/github-management

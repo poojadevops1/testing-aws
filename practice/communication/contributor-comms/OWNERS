@@ -1,0 +1,25 @@
+# See the OWNERS docs at https://go.k8s.io/owners
+
+reviewers:
+  - AvineshTripathi
+  - chris-short
+  - fsmunoz
+  - kaslin
+  - mfahlandt
+approvers:
+  - AvineshTripathi
+  - chris-short
+  - fsmunoz
+  - kaslin
+  - mfahlandt
+emeritus_approvers:
+  - Atharva-Shinde
+  - imnmo
+  - Pensu
+  - mbbroberg
+  - parispittman
+  - rajula96reddy
+  - SD-13
+labels:
+  - sig/contributor-experience
+  - area/contributor-comms
